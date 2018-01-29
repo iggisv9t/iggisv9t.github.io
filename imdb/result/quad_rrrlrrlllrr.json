@@ -1,0 +1,983 @@
+{
+  "idmap": {
+  "tt0258100": 0
+    ,  "tt4085974": 1
+    ,  "tt7349830": 2
+    ,  "tt6329586": 3
+    ,  "tt1546036": 4
+    ,  "tt0878825": 5
+    ,  "tt1068683": 6
+    ,  "tt5957180": 7
+    ,  "tt0338684": 8
+    ,  "tt0465849": 9
+    ,  "tt3298820": 10
+    ,  "tt1054486": 11
+    ,  "tt1054487": 12
+    ,  "tt0471711": 13
+    ,  "tt1054485": 14
+    ,  "tt2378365": 15
+    ,  "tt0250440": 16
+    ,  "tt1619014": 17
+    ,  "tt0373735": 18
+    ,  "tt2497834": 19
+    ,  "tt3356610": 20
+    ,  "tt5042364": 21
+    ,  "tt1550313": 22
+    ,  "tt3476396": 23
+    ,  "tt0285627": 24
+    ,  "tt0448204": 25
+    ,  "tt0497882": 26
+    ,  "tt0394436": 27
+    ,  "tt3654000": 28
+    ,  "tt3501810": 29
+    ,  "tt5134596": 30
+    ,  "tt3471256": 31
+    ,  "tt7315180": 32
+    ,  "tt5044188": 33
+    ,  "tt5779512": 34
+    ,  "tt3159268": 35
+  },
+  "referenced": [
+  ],
+  "header": {
+    "compact": true,
+    "xmin": -2002.805800,
+    "xmax": -1290.035500,
+    "ymin": -12179.758000,
+    "ymax": -11630.940000
+  },
+  "nodes": [
+    {
+      "nodeid": "tt0258100",
+      "name": "Run Ronnie Run (2002)",
+      "x": -1688.485400,
+      "y": -11630.940000,
+      "size": 235.191080,
+      "tne": 6,
+      "community": 64
+    }
+    ,    {
+      "nodeid": "tt4085974",
+      "name": "Lumen (TV Movie 2015)",
+      "x": -1659.130100,
+      "y": -11635.702000,
+      "size": 265.254780,
+      "tne": 8,
+      "community": 83
+    }
+    ,    {
+      "nodeid": "tt7349830",
+      "name": "Mariah Carey Feat. Jermaine Dupri & Fatman Scoop: It's Like That (Video 2005)",
+      "x": -1368.382000,
+      "y": -11640.947000,
+      "size": 235.191080,
+      "tne": 6,
+      "community": 57
+    }
+    ,    {
+      "nodeid": "tt6329586",
+      "name": "Sweet Thing (2017)",
+      "x": -1956.518700,
+      "y": -11651.131000,
+      "size": 235.191080,
+      "tne": 6,
+      "community": 50
+    }
+    ,    {
+      "nodeid": "tt1546036",
+      "name": "The Drawn Together Movie! (2010)",
+      "x": -1687.438100,
+      "y": -11781.125000,
+      "size": 355.445860,
+      "tne": 14,
+      "community": 63
+    }
+    ,    {
+      "nodeid": "tt0878825",
+      "name": "Peace, Love & Understanding (1992)",
+      "x": -1549.654500,
+      "y": -11812.135000,
+      "size": 250.222930,
+      "tne": 7,
+      "community": 65
+    }
+    ,    {
+      "nodeid": "tt1068683",
+      "name": "Code Monkeys (TV Series 2007u20132008)",
+      "x": -1813.324700,
+      "y": -11828.786000,
+      "size": 34.041434,
+      "tne": 13,
+      "community": 70
+    }
+    ,    {
+      "nodeid": "tt5957180",
+      "name": "Star Wars: The Dark Reckoning (2017)",
+      "x": -1504.248000,
+      "y": -11833.609000,
+      "size": 295.318470,
+      "tne": 10,
+      "community": 67
+    }
+    ,    {
+      "nodeid": "tt0338684",
+      "name": "3-South (TV Series 2002u20132003)",
+      "x": -1810.488600,
+      "y": -11843.483000,
+      "size": 31.035032,
+      "tne": 11,
+      "community": 82
+    }
+    ,    {
+      "nodeid": "tt0465849",
+      "name": "Perfect Hair Forever (TV Series 2004u20132014)",
+      "x": -1378.447400,
+      "y": -11854.325000,
+      "size": 34.041434,
+      "tne": 13,
+      "community": 69
+    }
+    ,    {
+      "nodeid": "tt3298820",
+      "name": "Metalocalypse: The Doomstar Requiem - A Klok Opera (TV Movie 2013)",
+      "x": -1697.025400,
+      "y": -11873.082000,
+      "size": 34.041434,
+      "tne": 13,
+      "community": 82
+    }
+    ,    {
+      "nodeid": "tt1054486",
+      "name": "Futurama: Bender's Game (Video 2008)",
+      "x": -1396.095500,
+      "y": -11903.645500,
+      "size": 47.570065,
+      "tne": 22,
+      "community": 73
+    }
+    ,    {
+      "nodeid": "tt1054487",
+      "name": "Futurama: Into the Wild Green Yonder (Video 2009)",
+      "x": -1393.299900,
+      "y": -11905.025000,
+      "size": 47.570065,
+      "tne": 22,
+      "community": 73
+    }
+    ,    {
+      "nodeid": "tt0471711",
+      "name": "Futurama: Bender's Big Score (Video 2007)",
+      "x": -1397.063400,
+      "y": -11905.353000,
+      "size": 50.576436,
+      "tne": 24,
+      "community": 77
+    }
+    ,    {
+      "nodeid": "tt1054485",
+      "name": "Futurama: The Beast with a Billion Backs (Video 2008)",
+      "x": -1397.498500,
+      "y": -11908.504000,
+      "size": 47.570065,
+      "tne": 22,
+      "community": 73
+    }
+    ,    {
+      "nodeid": "tt2378365",
+      "name": "Lucas Gets Kidnapped! (2011)",
+      "x": -1657.907500,
+      "y": -11925.184000,
+      "size": 25.022293,
+      "tne": 7,
+      "community": 43
+    }
+    ,    {
+      "nodeid": "tt0250440",
+      "name": "Daria in 'Is It Fall Yet?' (TV Movie 2000)",
+      "x": -1856.954600,
+      "y": -11942.240000,
+      "size": 295.318470,
+      "tne": 10,
+      "community": 82
+    }
+    ,    {
+      "nodeid": "tt1619014",
+      "name": "A Cross the Universe (Video 2008)",
+      "x": -1290.035500,
+      "y": -11943.052000,
+      "size": 25.022293,
+      "tne": 7,
+      "community": 75
+    }
+    ,    {
+      "nodeid": "tt0373735",
+      "name": "Broken Allegiance (2002)",
+      "x": -1812.163700,
+      "y": -11947.593000,
+      "size": 355.445860,
+      "tne": 14,
+      "community": 67
+    }
+    ,    {
+      "nodeid": "tt2497834",
+      "name": "Axe Cop (TV Series 2012u20132015)",
+      "x": -1341.633400,
+      "y": -11956.993000,
+      "size": 325.382160,
+      "tne": 12,
+      "community": 74
+    }
+    ,    {
+      "nodeid": "tt3356610",
+      "name": "All American Doctor Who (TV Series 2013u2013 )",
+      "x": -1390.331200,
+      "y": -11978.308000,
+      "size": 265.254780,
+      "tne": 8,
+      "community": 26
+    }
+    ,    {
+      "nodeid": "tt5042364",
+      "name": "Operation Sandstorm (2013)",
+      "x": -2002.805800,
+      "y": -11991.028000,
+      "size": 38.550957,
+      "tne": 16,
+      "community": 75
+    }
+    ,    {
+      "nodeid": "tt1550313",
+      "name": "Christmas Cash (Video 2009)",
+      "x": -1665.534000,
+      "y": -11994.284000,
+      "size": 34.041434,
+      "tne": 13,
+      "community": 39
+    }
+    ,    {
+      "nodeid": "tt3476396",
+      "name": "Die Antwoord: I Fink U Freeky (Video 2012)",
+      "x": -1393.697400,
+      "y": -12025.269000,
+      "size": 38.550957,
+      "tne": 16,
+      "community": 78
+    }
+    ,    {
+      "nodeid": "tt0285627",
+      "name": "Daria in 'Is It College Yet?' (TV Movie 2002)",
+      "x": -1914.354500,
+      "y": -12030.196000,
+      "size": 29.531847,
+      "tne": 10,
+      "community": 83
+    }
+    ,    {
+      "nodeid": "tt0448204",
+      "name": "Big House Blues (1990)",
+      "x": -1724.507200,
+      "y": -12045.141000,
+      "size": 310.350320,
+      "tne": 11,
+      "community": 82
+    }
+    ,    {
+      "nodeid": "tt0497882",
+      "name": "Anime Talk Show (TV Short 2004)",
+      "x": -1417.863600,
+      "y": -12045.650000,
+      "size": 34.041434,
+      "tne": 13,
+      "community": 83
+    }
+    ,    {
+      "nodeid": "tt0394436",
+      "name": "Daria: Look Back in Annoyance (TV Movie 2002)",
+      "x": -1783.240500,
+      "y": -12056.100000,
+      "size": 28.028664,
+      "tne": 9,
+      "community": 84
+    }
+    ,    {
+      "nodeid": "tt3654000",
+      "name": "Cute Combat (TV Series 2014u2013 )",
+      "x": -1582.018900,
+      "y": -12073.681000,
+      "size": 23.519108,
+      "tne": 6,
+      "community": 40
+    }
+    ,    {
+      "nodeid": "tt3501810",
+      "name": "Star Wars: Episode XXXVIII - 10 Years Later (2014)",
+      "x": -1701.660600,
+      "y": -12104.830000,
+      "size": 355.445860,
+      "tne": 14,
+      "community": 50
+    }
+    ,    {
+      "nodeid": "tt5134596",
+      "name": "We Bare Bears: Bear Cleaning (2015)",
+      "x": -1291.594100,
+      "y": -12119.698000,
+      "size": 25.022293,
+      "tne": 7,
+      "community": 82
+    }
+    ,    {
+      "nodeid": "tt3471256",
+      "name": "The Esoteric (2014)",
+      "x": -1550.904700,
+      "y": -12124.845000,
+      "size": 340.414000,
+      "tne": 13,
+      "community": 72
+    }
+    ,    {
+      "nodeid": "tt7315180",
+      "name": "Odyssey: A Star Wars Story (2018)",
+      "x": -1615.264800,
+      "y": -12150.121000,
+      "size": 340.414000,
+      "tne": 13,
+      "community": 50
+    }
+    ,    {
+      "nodeid": "tt5044188",
+      "name": "Jurassic Park: Prime Survival (TV Movie 2011)",
+      "x": -1901.344600,
+      "y": -12160.259000,
+      "size": 52.079618,
+      "tne": 25,
+      "community": 70
+    }
+    ,    {
+      "nodeid": "tt5779512",
+      "name": "The Last of Us: Left Behind (TV Series 2015u2013 )",
+      "x": -1797.064000,
+      "y": -12178.374000,
+      "size": 340.414000,
+      "tne": 13,
+      "community": 80
+    }
+    ,    {
+      "nodeid": "tt3159268",
+      "name": "The Last of Us: Firefly Chronicles (Video 2013)",
+      "x": -1809.407600,
+      "y": -12179.758000,
+      "size": 310.350320,
+      "tne": 11,
+      "community": 45
+    }
+  ],
+  "relations": [
+    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt0250440",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt0394436"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt0250440",
+      "quadB": "quad_rrrlrrlll",
+      "nodeidB": "tt0118298"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt0250440",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt0285627"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt2497834",
+      "quadB": "quad_rrrlrrllll",
+      "nodeidB": "tt4160686"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt2497834",
+      "quadB": "quad_rrrlrrlllr",
+      "nodeidB": "tt3038384"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt2497834",
+      "quadB": "quad_rrrlrrllrl",
+      "nodeidB": "tt3042900"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt2497834",
+      "quadB": "quad_rrrlrrllll",
+      "nodeidB": "tt4612950"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt2497834",
+      "quadB": "quad_rrrlrrlllr",
+      "nodeidB": "tt3012976"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrllll",
+      "nodeidA": "tt4160686",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt2497834"
+    }
+    ,    {
+      "quadA": "quad_rrrlrlrlrr",
+      "nodeidA": "tt4538292",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt3476396"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt3471256",
+      "quadB": "quad_rrrlrrlrrll",
+      "nodeidB": "tt5690360"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt3471256",
+      "quadB": "quad_llrrrrrlr",
+      "nodeidB": "tt2059171"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt3471256",
+      "quadB": "quad_rrrlrrllrl",
+      "nodeidB": "tt4941794"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt3471256",
+      "quadB": "quad_rrrlrlrlll",
+      "nodeidB": "tt2354215"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt3471256",
+      "quadB": "quad_rrrrrrrlrl",
+      "nodeidB": "tt3196884"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt3471256",
+      "quadB": "quad_rrrlrrlrrl",
+      "nodeidB": "tt4667714"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt3471256",
+      "quadB": "quad_rrrlrrllr",
+      "nodeidB": "tt1885304"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllr",
+      "nodeidA": "tt0118984",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt1068683"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrllrl",
+      "nodeidA": "tt3042900",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt2497834"
+    }
+    ,    {
+      "quadA": "quad_rrrrrrrlrl",
+      "nodeidA": "tt3196884",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt3471256"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlll",
+      "nodeidA": "tt0305011",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt0338684"
+    }
+    ,    {
+      "quadA": "quad_rrrlrlrlrlr",
+      "nodeidA": "tt7456034",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt3476396"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt3476396",
+      "quadB": "quad_rrrlrrlllll",
+      "nodeidB": "tt7353582"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt3476396",
+      "quadB": "quad_rrrlrllrlr",
+      "nodeidB": "tt1823672"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt3476396",
+      "quadB": "quad_llrrrrrr",
+      "nodeidB": "tt1866286"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt3476396",
+      "quadB": "quad_rrrlrlrlrr",
+      "nodeidB": "tt4538292"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt3476396",
+      "quadB": "quad_rrrlrlrlrlr",
+      "nodeidB": "tt3659826"
+    }
+    ,    {
+      "quadA": "quad_rrrlrlrlrlr",
+      "nodeidA": "tt3659826",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt3476396"
+    }
+    ,    {
+      "quadA": "quad_llrrrrrr",
+      "nodeidA": "tt1866286",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt3476396"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlrllr",
+      "nodeidA": "tt1856020",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt5044188"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlrllr",
+      "nodeidA": "tt6682508",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt5044188"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrllrlr",
+      "nodeidA": "tt5301518",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt5044188"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrllrlr",
+      "nodeidA": "tt5301488",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt5044188"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrllllr",
+      "nodeidA": "tt2140041",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt5044188"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrllllr",
+      "nodeidA": "tt4817666",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt5042364"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrllllr",
+      "nodeidA": "tt4817666",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt5044188"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrllrlr",
+      "nodeidA": "tt4827838",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt5044188"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrllllr",
+      "nodeidA": "tt1964823",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt5044188"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlrllr",
+      "nodeidA": "tt5042346",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt5042364"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlrllr",
+      "nodeidA": "tt5042346",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt5044188"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt5042364",
+      "quadB": "quad_rrrlrrlrllr",
+      "nodeidB": "tt5042346"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt5042364",
+      "quadB": "quad_rrrlrrlrllr",
+      "nodeidB": "tt5042392"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt5042364",
+      "quadB": "quad_rrrlrr",
+      "nodeidB": "tt4956208"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt5042364",
+      "quadB": "quad_rrrlrrl",
+      "nodeidB": "tt5773626"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt5042364",
+      "quadB": "quad_rrrlrrllllr",
+      "nodeidB": "tt4817666"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt5042364",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt5044188"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlrllr",
+      "nodeidA": "tt5042392",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt5042364"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlrllr",
+      "nodeidA": "tt5042392",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt5044188"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt5044188",
+      "quadB": "quad_rrrlrrlrllr",
+      "nodeidB": "tt5042392"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt5044188",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt5042364"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt5044188",
+      "quadB": "quad_rrrlrrlrllr",
+      "nodeidB": "tt5042346"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt5044188",
+      "quadB": "quad_rrrlrrllllr",
+      "nodeidB": "tt1964823"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt5044188",
+      "quadB": "quad_rrrlrrllrlr",
+      "nodeidB": "tt4827838"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt5044188",
+      "quadB": "quad_rrrlrrllllr",
+      "nodeidB": "tt4817666"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt5044188",
+      "quadB": "quad_rrrlrrl",
+      "nodeidB": "tt5773626"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt5044188",
+      "quadB": "quad_rrrlrrlrllr",
+      "nodeidB": "tt5815286"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt5044188",
+      "quadB": "quad_rrrlrrlrllr",
+      "nodeidB": "tt6682508"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt5044188",
+      "quadB": "quad_rrrlrrlrllr",
+      "nodeidB": "tt1856020"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrl",
+      "nodeidA": "tt5042286",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt5044188"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllll",
+      "nodeidA": "tt5142518",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt5134596"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt5134596",
+      "quadB": "quad_rrrlrrllrlr",
+      "nodeidB": "tt7168712"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt5134596",
+      "quadB": "quad_rrrlrrllrlr",
+      "nodeidB": "tt5172470"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt5134596",
+      "quadB": "quad_rrrlrrllll",
+      "nodeidB": "tt6999744"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt5134596",
+      "quadB": "quad_rrrlrrlllll",
+      "nodeidB": "tt5142518"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrllrlr",
+      "nodeidA": "tt7168712",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt5134596"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrllll",
+      "nodeidA": "tt6999744",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt5134596"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt0497882",
+      "quadB": "quad_rrrlrrlllr",
+      "nodeidB": "tt0455326"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt0497882",
+      "quadB": "quad_rrrlrrlrll",
+      "nodeidB": "tt0465774"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt0497882",
+      "quadB": "quad_rrrlrrllll",
+      "nodeidB": "tt3221268"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt0497882",
+      "quadB": "quad_rrrlrrllllr",
+      "nodeidB": "tt1315861"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt3298820",
+      "quadB": "quad_rrrlr",
+      "nodeidB": "tt0197148"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt3298820",
+      "quadB": "quad_rrrlrrlll",
+      "nodeidB": "tt1621748"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt3298820",
+      "quadB": "quad_rrrlrrlll",
+      "nodeidB": "tt0417373"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrllllr",
+      "nodeidA": "tt1315861",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt0497882"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt0465849",
+      "quadB": "quad_lrrrrlr",
+      "nodeidB": "tt0425720"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt0465849",
+      "quadB": "quad_rrrlrr",
+      "nodeidB": "tt0297494"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt0465849",
+      "quadB": "quad_rrrlrrlllr",
+      "nodeidB": "tt0455326"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt0465849",
+      "quadB": "quad_rrrlrrlll",
+      "nodeidB": "tt0420939"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt0465849",
+      "quadB": "quad_rrrlrrllll",
+      "nodeidB": "tt0795065"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt0465849",
+      "quadB": "quad_rrrlrrlrll",
+      "nodeidB": "tt0465774"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrll",
+      "nodeidA": "tt0839188",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt3298820"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlrll",
+      "nodeidA": "tt0465774",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt0465849"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrllrl",
+      "nodeidA": "tt4941794",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt3471256"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt1619014",
+      "quadB": "quad_rrrlrrllrr",
+      "nodeidB": "tt2785818"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt1619014",
+      "quadB": "quad_rrrlrrllllr",
+      "nodeidB": "tt5862976"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt1619014",
+      "quadB": "quad_rrrlrrrllll",
+      "nodeidB": "tt3476754"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt1619014",
+      "quadB": "quad_rrrlrrlllll",
+      "nodeidB": "tt0800022"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrllllr",
+      "nodeidA": "tt7425878",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt1619014"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrllllr",
+      "nodeidA": "tt5862976",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt1619014"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrllll",
+      "nodeidA": "tt4612950",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt2497834"
+    }
+    ,    {
+      "quadA": "quad_lrrrrrlrrr",
+      "nodeidA": "tt0180241",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt0258100"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlrl",
+      "nodeidA": "tt0813911",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt0258100"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrl",
+      "nodeidA": "tt0101178",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt0448204"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlrllr",
+      "nodeidA": "tt1626206",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt0258100"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlrll",
+      "nodeidA": "tt0205946",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt0258100"
+    }
+    ,    {
+      "quadA": "quad_lrrlllrrl",
+      "nodeidA": "tt5884798",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt1054487"
+    }
+    ,    {
+      "quadA": "quad_lrrlllrrl",
+      "nodeidA": "tt5884798",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt0471711"
+    }
+    ,    {
+      "quadA": "quad_lrrlllrrl",
+      "nodeidA": "tt5884798",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt1054486"
+    }
+    ,    {
+      "quadA": "quad_lrrlllrrl",
+      "nodeidA": "tt5884798",
+      "quadB": "quad_rrrlrrlllrr",
+      "nodeidB": "tt1054485"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt1068683",
+      "quadB": "quad_rrrlrrl",
+      "nodeidB": "tt0112065"
+    }
+    ,    {
+      "quadA": "quad_rrrlrrlllrr",
+      "nodeidA": "tt1068683",
+      "quadB": "quad_rrrlrrlll",
+      "nodeidB": "tt0118298"
+    }
+    ]
+}

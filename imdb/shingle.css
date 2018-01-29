@@ -1,0 +1,99 @@
+.shingle-container {
+  position:relative;
+}
+
+.shingle-container .shingle-info {
+    display: none;
+}
+
+.shingle-container .shingle-node-text {
+    background: none;
+}
+
+.shingle-container.shingle-with-focussed-node .shingle-info {
+    display: inherit;
+}
+
+.shingle-map {
+  overflow:hidden;
+  background-color:#ffffff;
+  position:absolute; 
+  left:0in;
+  top:0in;
+}
+
+.shingle-clickable:hover {
+  cursor: pointer;
+}
+
+.shingle-visited-node-text {
+  text-decoration: underline;
+}
+
+.shingle-visited-node-text:not(.shingle-initial-node-text) {
+  opacity: 0.88;
+}
+
+.shingle-shingle-marker-container {
+  overflow:visible;
+  position:absolute; 
+  left:0in;
+  top:0in;
+  z-index:90;
+}
+
+.shingle-bitmap-container {
+  transition: opacity 1s;
+  transition-timing-function: linear;
+}
+
+.markertype-visited {
+  background-color:#ffffff;
+  border: 0.0250in solid #6c0606;
+  color: #6c0606;
+  text-decoration:underline #6c0606;
+  cursor: pointer;
+}
+
+.markertype-visited:hover {
+  border: 0.0250in solid #bd4e4e;
+  color: #bd4e4e;
+  text-decoration:underline #bd4e4e;
+}
+
+.shingle-zoom {
+  position:absolute;
+  left:0.25in;
+  top:0.125in;
+  z-index:100;
+}
+
+.shingle-debug {
+  position:absolute;
+  left:0.25in;
+  top:5.75in;
+  z-index:100;
+}
+
+.shingle-unselectable {
+  -webkit-user-select: none;  /* Chrome all / Safari all */
+  -moz-user-select: none;     /* Firefox all */
+  -ms-user-select: none;      /* IE 10+ */
+  user-select: none;          /* Likely future */      
+}
+
+.shingle-html-overlay,
+.shingle-html-overlay-el {
+  position: absolute;
+}
+
+.shingle-html-overlay {
+  pointer-events: none;
+}
+
+.shingle-html-overlay-el {
+  pointer-events: all;
+}
+.shingle-html-overlay-el:hover {
+  cursor: pointer;
+}

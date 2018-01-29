@@ -1,0 +1,901 @@
+{
+  "idmap": {
+  "tt0192107": 0
+    ,  "tt0186108": 1
+    ,  "tt2201522": 2
+    ,  "tt0202697": 3
+    ,  "tt0064433": 4
+    ,  "tt0078244": 5
+    ,  "tt0070335": 6
+    ,  "tt0072269": 7
+    ,  "tt5968306": 8
+    ,  "tt0188755": 9
+    ,  "tt0200073": 10
+    ,  "tt0018371": 11
+    ,  "tt0438500": 12
+    ,  "tt0388942": 13
+    ,  "tt0350650": 14
+    ,  "tt0368393": 15
+    ,  "tt0080316": 16
+    ,  "tt0021429": 17
+    ,  "tt0380724": 18
+    ,  "tt0120527": 19
+    ,  "tt2032448": 20
+    ,  "tt1403045": 21
+    ,  "tt0035235": 22
+    ,  "tt0062256": 23
+    ,  "tt6497038": 24
+    ,  "tt0122062": 25
+    ,  "tt1927041": 26
+    ,  "tt0053684": 27
+    ,  "tt5105720": 28
+    ,  "tt0830180": 29
+    ,  "tt2983754": 30
+    ,  "tt0043754": 31
+    ,  "tt0082438": 32
+    ,  "tt1440309": 33
+    ,  "tt0096048": 34
+  },
+  "referenced": [
+  ],
+  "header": {
+    "compact": true,
+    "xmin": -12391.794000,
+    "xmax": -11170.343000,
+    "ymin": 12645.923000,
+    "ymax": 14342.294000
+  },
+  "nodes": [
+    {
+      "nodeid": "tt0192107",
+      "name": "Hao xia zhuan (1969)",
+      "x": -11173.650000,
+      "y": 14342.294000,
+      "size": 160.031850,
+      "tne": 1,
+      "community": 68
+    }
+    ,    {
+      "nodeid": "tt0186108",
+      "name": "Fighting Fool (1979)",
+      "x": -11170.343000,
+      "y": 14299.719000,
+      "size": 160.031850,
+      "tne": 1,
+      "community": 61
+    }
+    ,    {
+      "nodeid": "tt2201522",
+      "name": "Less (1973)",
+      "x": -11736.977000,
+      "y": 14272.362000,
+      "size": 250.222930,
+      "tne": 7,
+      "community": 57
+    }
+    ,    {
+      "nodeid": "tt0202697",
+      "name": "Heroes Shed No Tears (1980)",
+      "x": -11226.757000,
+      "y": 14236.996000,
+      "size": 160.031850,
+      "tne": 1,
+      "community": 65
+    }
+    ,    {
+      "nodeid": "tt0064433",
+      "name": "Heaven and Hell (1969)",
+      "x": -11229.365000,
+      "y": 14181.507000,
+      "size": 160.031850,
+      "tne": 1,
+      "community": 48
+    }
+    ,    {
+      "nodeid": "tt0078244",
+      "name": "Shaolin Deadly Hands (1978)",
+      "x": -11203.927000,
+      "y": 14001.075000,
+      "size": 160.031850,
+      "tne": 1,
+      "community": 52
+    }
+    ,    {
+      "nodeid": "tt0070335",
+      "name": "Long hu jin hu (1973)",
+      "x": -11232.922000,
+      "y": 13841.979500,
+      "size": 160.031850,
+      "tne": 1,
+      "community": 57
+    }
+    ,    {
+      "nodeid": "tt0072269",
+      "name": "Testament (1974)",
+      "x": -11915.458000,
+      "y": 13786.248000,
+      "size": 160.031850,
+      "tne": 1,
+      "community": 65
+    }
+    ,    {
+      "nodeid": "tt5968306",
+      "name": "Matrix I (1971)",
+      "x": -11712.096000,
+      "y": 13749.393000,
+      "size": 16.003185,
+      "tne": 1,
+      "community": 66
+    }
+    ,    {
+      "nodeid": "tt0188755",
+      "name": "Shao Lin xiao zi (1977)",
+      "x": -11251.841000,
+      "y": 13738.660000,
+      "size": 160.031850,
+      "tne": 1,
+      "community": 50
+    }
+    ,    {
+      "nodeid": "tt0200073",
+      "name": "Buddha's Palm and Dragon Fist (1980)",
+      "x": -11187.116000,
+      "y": 13600.743000,
+      "size": 160.031850,
+      "tne": 1,
+      "community": 59
+    }
+    ,    {
+      "nodeid": "tt0018371",
+      "name": "Seelische Konstruktionen (1927)",
+      "x": -12146.820000,
+      "y": 13507.670000,
+      "size": 160.031850,
+      "tne": 1,
+      "community": 74
+    }
+    ,    {
+      "nodeid": "tt0438500",
+      "name": "Queen of Sports (1934)",
+      "x": -11779.959000,
+      "y": 13405.134000,
+      "size": 160.031850,
+      "tne": 1,
+      "community": 59
+    }
+    ,    {
+      "nodeid": "tt0388942",
+      "name": "Film Exercise #1 (1943)",
+      "x": -11369.481000,
+      "y": 13298.814000,
+      "size": 19.009554,
+      "tne": 3,
+      "community": 55
+    }
+    ,    {
+      "nodeid": "tt0350650",
+      "name": "The Boy and the Sea (1953)",
+      "x": -11173.985000,
+      "y": 13291.090000,
+      "size": 16.003185,
+      "tne": 1,
+      "community": 50
+    }
+    ,    {
+      "nodeid": "tt0368393",
+      "name": "Untitled Film of Geoffrey Holder's Wedding (1955)",
+      "x": -11190.712000,
+      "y": 13278.475000,
+      "size": 16.003185,
+      "tne": 1,
+      "community": 50
+    }
+    ,    {
+      "nodeid": "tt0080316",
+      "name": "203 kochi (1980)",
+      "x": -11201.099000,
+      "y": 13178.496000,
+      "size": 23.519108,
+      "tne": 6,
+      "community": 69
+    }
+    ,    {
+      "nodeid": "tt0021429",
+      "name": "Study No. 6 (1930)",
+      "x": -12113.338000,
+      "y": 13123.591000,
+      "size": 160.031850,
+      "tne": 1,
+      "community": 71
+    }
+    ,    {
+      "nodeid": "tt0380724",
+      "name": "Son of Alladin (2003)",
+      "x": -11646.212000,
+      "y": 13024.908000,
+      "size": 16.003185,
+      "tne": 1,
+      "community": 52
+    }
+    ,    {
+      "nodeid": "tt0120527",
+      "name": "Wittstock, Wittstock (1997)",
+      "x": -11872.489000,
+      "y": 12994.480000,
+      "size": 16.003185,
+      "tne": 1,
+      "community": 76
+    }
+    ,    {
+      "nodeid": "tt2032448",
+      "name": "Film Exercises 2-3 (1944)",
+      "x": -11554.801000,
+      "y": 12940.501000,
+      "size": 250.222930,
+      "tne": 7,
+      "community": 49
+    }
+    ,    {
+      "nodeid": "tt1403045",
+      "name": "Rice and Milk (2009)",
+      "x": -12265.446000,
+      "y": 12907.782000,
+      "size": 16.003185,
+      "tne": 1,
+      "community": 65
+    }
+    ,    {
+      "nodeid": "tt0035235",
+      "name": "Radio Dynamics (1942)",
+      "x": -11416.155000,
+      "y": 12903.940000,
+      "size": 190.095540,
+      "tne": 3,
+      "community": 71
+    }
+    ,    {
+      "nodeid": "tt0062256",
+      "name": "La seu00f1ora del intendente (1967)",
+      "x": -11731.599000,
+      "y": 12898.153000,
+      "size": 16.003185,
+      "tne": 1,
+      "community": 59
+    }
+    ,    {
+      "nodeid": "tt6497038",
+      "name": "Black Is (1965)",
+      "x": -12384.261000,
+      "y": 12854.155000,
+      "size": 16.003185,
+      "tne": 1,
+      "community": 50
+    }
+    ,    {
+      "nodeid": "tt0122062",
+      "name": "Favela (1960)",
+      "x": -12391.794000,
+      "y": 12851.707000,
+      "size": 16.003185,
+      "tne": 1,
+      "community": 49
+    }
+    ,    {
+      "nodeid": "tt1927041",
+      "name": "Step Up Love Story (2011)",
+      "x": -11710.404000,
+      "y": 12799.487000,
+      "size": 38.550957,
+      "tne": 16,
+      "community": 53
+    }
+    ,    {
+      "nodeid": "tt0053684",
+      "name": "La burrerita de Ypacarau00ed (1962)",
+      "x": -12350.937000,
+      "y": 12788.430000,
+      "size": 16.003185,
+      "tne": 1,
+      "community": 65
+    }
+    ,    {
+      "nodeid": "tt5105720",
+      "name": "Sappho and Jerry, Parts 1-3 (1978)",
+      "x": -11937.623000,
+      "y": 12707.050000,
+      "size": 34.041434,
+      "tne": 13,
+      "community": 65
+    }
+    ,    {
+      "nodeid": "tt0830180",
+      "name": "High Kukus (1973)",
+      "x": -11775.814000,
+      "y": 12666.062000,
+      "size": 160.031850,
+      "tne": 1,
+      "community": 55
+    }
+    ,    {
+      "nodeid": "tt2983754",
+      "name": "Inauguracion Casino de Vina del Mar (1931)",
+      "x": -11815.435000,
+      "y": 12658.692000,
+      "size": 16.003185,
+      "tne": 1,
+      "community": 53
+    }
+    ,    {
+      "nodeid": "tt0043754",
+      "name": "Loony Tom (1951)",
+      "x": -11566.306000,
+      "y": 12658.139000,
+      "size": 250.222930,
+      "tne": 7,
+      "community": 54
+    }
+    ,    {
+      "nodeid": "tt0082438",
+      "name": "The Gardener of Eden (1981)",
+      "x": -11797.071000,
+      "y": 12656.454000,
+      "size": 160.031850,
+      "tne": 1,
+      "community": 65
+    }
+    ,    {
+      "nodeid": "tt1440309",
+      "name": "The Cage (1947)",
+      "x": -11622.634000,
+      "y": 12651.130000,
+      "size": 26.525478,
+      "tne": 8,
+      "community": 64
+    }
+    ,    {
+      "nodeid": "tt0096048",
+      "name": "Scattered Remains (1988)",
+      "x": -11791.633000,
+      "y": 12645.923000,
+      "size": 160.031850,
+      "tne": 1,
+      "community": 63
+    }
+  ],
+  "relations": [
+    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt0043754",
+      "quadB": "quad_rlrllrrlll",
+      "nodeidB": "tt0064744"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt0043754",
+      "quadB": "quad_rlrllrlrrl",
+      "nodeidB": "tt0046194"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt0043754",
+      "quadB": "quad_rlrllrrlllr",
+      "nodeidB": "tt0040610"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt0043754",
+      "quadB": "quad_rlrllrlrlr",
+      "nodeidB": "tt0043559"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrll",
+      "nodeidA": "tt2187015",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt2201522"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt5105720",
+      "quadB": "quad_rlrllrrlll",
+      "nodeidB": "tt5105636"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt5105720",
+      "quadB": "quad_rlrllrrlll",
+      "nodeidB": "tt2084923"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt5105720",
+      "quadB": "quad_rlrllrrll",
+      "nodeidB": "tt0267573"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt5105720",
+      "quadB": "quad_rlrllrrlll",
+      "nodeidB": "tt0044326"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt5105720",
+      "quadB": "quad_rlrllrrll",
+      "nodeidB": "tt5105650"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt5105720",
+      "quadB": "quad_rlrllrlrl",
+      "nodeidB": "tt0209191"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt5105720",
+      "quadB": "quad_rlrllrlrll",
+      "nodeidB": "tt0208850"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt5105720",
+      "quadB": "quad_rlrllrrlllr",
+      "nodeidB": "tt5105742"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrlllr",
+      "nodeidA": "tt5105742",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt5105720"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrlll",
+      "nodeidA": "tt5105636",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt5105720"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrlll",
+      "nodeidA": "tt0044326",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt5105720"
+    }
+    ,    {
+      "quadA": "quad_rlrllrlrlrr",
+      "nodeidA": "tt0327408",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0380724"
+    }
+    ,    {
+      "quadA": "quad_rlrllrlrr",
+      "nodeidA": "tt0277755",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt1440309"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrlrl",
+      "nodeidA": "tt2040291",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt6497038"
+    }
+    ,    {
+      "quadA": "quad_rlrllrllrrr",
+      "nodeidA": "tt1653691",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt5968306"
+    }
+    ,    {
+      "quadA": "quad_rlrllrllrrr",
+      "nodeidA": "tt1653691",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt2032448"
+    }
+    ,    {
+      "quadA": "quad_rlrllrllrrr",
+      "nodeidA": "tt1653691",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0388942"
+    }
+    ,    {
+      "quadA": "quad_rlrllrlrlrl",
+      "nodeidA": "tt2154844",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt2032448"
+    }
+    ,    {
+      "quadA": "quad_rlrllrlrlrl",
+      "nodeidA": "tt2154844",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0388942"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt2032448",
+      "quadB": "quad_rlrllrlrlrl",
+      "nodeidB": "tt2154844"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt2032448",
+      "quadB": "quad_rlrllrrllr",
+      "nodeidB": "tt0031736"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt2032448",
+      "quadB": "quad_rlrllrllrrr",
+      "nodeidB": "tt1653691"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt2032448",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0388942"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrlllr",
+      "nodeidA": "tt0076428",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0120527"
+    }
+    ,    {
+      "quadA": "quad_rlrllrlrrlr",
+      "nodeidA": "tt3419140",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt2983754"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt0080316",
+      "quadB": "quad_rlrllrrrr",
+      "nodeidB": "tt0044837"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt0080316",
+      "quadB": "quad_rlrllrlllll",
+      "nodeidB": "tt0064733"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt0080316",
+      "quadB": "quad_rrlrrlll",
+      "nodeidB": "tt0074899"
+    }
+    ,    {
+      "quadA": "quad_rlrllrlllll",
+      "nodeidA": "tt0064733",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0080316"
+    }
+    ,    {
+      "quadA": "quad_rlrlllrllrr",
+      "nodeidA": "tt4323930",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt1927041"
+    }
+    ,    {
+      "quadA": "quad_rlrllllrrrr",
+      "nodeidA": "tt2134058",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt1927041"
+    }
+    ,    {
+      "quadA": "quad_rlrllllrlrr",
+      "nodeidA": "tt2560094",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt1927041"
+    }
+    ,    {
+      "quadA": "quad_rlrlllrllrr",
+      "nodeidA": "tt0929753",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt1927041"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt1927041",
+      "quadB": "quad_rlrlllrlrlr",
+      "nodeidB": "tt7639048"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt1927041",
+      "quadB": "quad_rrlrrlll",
+      "nodeidB": "tt0070559"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt1927041",
+      "quadB": "quad_rrlrllrrlll",
+      "nodeidB": "tt0315398"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt1927041",
+      "quadB": "quad_rrlrlrrrlrl",
+      "nodeidB": "tt0113507"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt1927041",
+      "quadB": "quad_rrlrllrl",
+      "nodeidB": "tt0096871"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt1927041",
+      "quadB": "quad_rlrlllrllrr",
+      "nodeidB": "tt0929753"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt1927041",
+      "quadB": "quad_rrlrllrrrlr",
+      "nodeidB": "tt4069506"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt1927041",
+      "quadB": "quad_rlrllllrlrr",
+      "nodeidB": "tt2560094"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt1927041",
+      "quadB": "quad_rlrllllrrrr",
+      "nodeidB": "tt2134058"
+    }
+    ,    {
+      "quadA": "quad_rrlrllrrrlr",
+      "nodeidA": "tt4069506",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt1927041"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrlllr",
+      "nodeidA": "tt0122249",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0122062"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrlrll",
+      "nodeidA": "tt0122118",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0053684"
+    }
+    ,    {
+      "quadA": "quad_rlrllrlrlrl",
+      "nodeidA": "tt0214052",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0368393"
+    }
+    ,    {
+      "quadA": "quad_rlrllrlrlrl",
+      "nodeidA": "tt0214052",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0350650"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrlllr",
+      "nodeidA": "tt1527170",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt1403045"
+    }
+    ,    {
+      "quadA": "quad_rlrllrlrlrr",
+      "nodeidA": "tt0062993",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0062256"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrlllr",
+      "nodeidA": "tt0351920",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt1440309"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt1440309",
+      "quadB": "quad_rlrllrrllr",
+      "nodeidB": "tt0263830"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt1440309",
+      "quadB": "quad_rlrllrrr",
+      "nodeidB": "tt0002415"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt1440309",
+      "quadB": "quad_rlrllrlrr",
+      "nodeidB": "tt0277755"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt1440309",
+      "quadB": "quad_rlrllrrlllr",
+      "nodeidB": "tt0351920"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt1440309",
+      "quadB": "quad_rlrllrlrll",
+      "nodeidB": "tt1440150"
+    }
+    ,    {
+      "quadA": "quad_rlrllrlrll",
+      "nodeidA": "tt1440150",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt1440309"
+    }
+    ,    {
+      "quadA": "quad_rlrllrlrlr",
+      "nodeidA": "tt0192842",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0438500"
+    }
+    ,    {
+      "quadA": "quad_rlrllrlrlrl",
+      "nodeidA": "tt0070301",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0070335"
+    }
+    ,    {
+      "quadA": "quad_rlrllrlrlrl",
+      "nodeidA": "tt0165749",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0200073"
+    }
+    ,    {
+      "quadA": "quad_rlrllrllrrr",
+      "nodeidA": "tt0065102",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0192107"
+    }
+    ,    {
+      "quadA": "quad_rlrllrllrr",
+      "nodeidA": "tt0078250",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0202697"
+    }
+    ,    {
+      "quadA": "quad_rlrllrlrrl",
+      "nodeidA": "tt0046194",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0096048"
+    }
+    ,    {
+      "quadA": "quad_rlrllrlrrl",
+      "nodeidA": "tt0046194",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0830180"
+    }
+    ,    {
+      "quadA": "quad_rlrllrlrrl",
+      "nodeidA": "tt0046194",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0043754"
+    }
+    ,    {
+      "quadA": "quad_rlrllrlrrl",
+      "nodeidA": "tt0046194",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0082438"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrlll",
+      "nodeidA": "tt0022441",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0021429"
+    }
+    ,    {
+      "quadA": "quad_rlrllrlrlr",
+      "nodeidA": "tt0024232",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0035235"
+    }
+    ,    {
+      "quadA": "quad_rlrllrlrlr",
+      "nodeidA": "tt0027275",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0035235"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrll",
+      "nodeidA": "tt0018190",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0035235"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrll",
+      "nodeidA": "tt0018190",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0018371"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrlll",
+      "nodeidA": "tt2187011",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt2201522"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt2201522",
+      "quadB": "quad_rlrllrrlll",
+      "nodeidB": "tt2187011"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt2201522",
+      "quadB": "quad_rlrllrrll",
+      "nodeidB": "tt2187013"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt2201522",
+      "quadB": "quad_rlrllrrll",
+      "nodeidB": "tt2187009"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllll",
+      "nodeidA": "tt2201522",
+      "quadB": "quad_rlrllrrll",
+      "nodeidB": "tt2187015"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrll",
+      "nodeidA": "tt2187009",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt2201522"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrlll",
+      "nodeidA": "tt0064744",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0072269"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrlll",
+      "nodeidA": "tt0064744",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0043754"
+    }
+    ,    {
+      "quadA": "quad_rlrllrlrlr",
+      "nodeidA": "tt0043559",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0043754"
+    }
+    ,    {
+      "quadA": "quad_rlrllrllrrr",
+      "nodeidA": "tt0077395",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0078244"
+    }
+    ,    {
+      "quadA": "quad_rlrllrlrlr",
+      "nodeidA": "tt0201096",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0188755"
+    }
+    ,    {
+      "quadA": "quad_rlrllrllrrr",
+      "nodeidA": "tt0080621",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0064433"
+    }
+    ,    {
+      "quadA": "quad_rlrllrllrrr",
+      "nodeidA": "tt0078969",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt0186108"
+    }
+    ,    {
+      "quadA": "quad_rlrllrrllr",
+      "nodeidA": "tt0031736",
+      "quadB": "quad_rlrllrrllll",
+      "nodeidB": "tt2032448"
+    }
+    ]
+}
