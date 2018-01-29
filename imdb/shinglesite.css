@@ -6,7 +6,7 @@
 body
 {
   margin:0;
-  font-family: 'Lora', serif;
+  font-family: 'Lora', sans-serif;
   font-size:12pt;
   color:#525c65;
 }
@@ -25,9 +25,7 @@ h3
 .containerpadding
 {
   height:6in;
-/*
-  margin-bottom:0.25in;
-*/
+  /* margin-bottom:0.25in; */
 }
 
 .pane
@@ -78,6 +76,9 @@ h3
   content:"All content on this site (c) 2016 Ayal Pinkus. All rights reserved.";
 }
 
+/* #shinglecontainer {
+  padding-bottom: 20%;
+} */
 
 
 /* Responsive design */
