@@ -1,0 +1,51 @@
+<html>
+<head>
+    <link rel="shortcut icon"
+    href="./favicon.ico">
+
+<link href="https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap" rel="stylesheet">
+<style>
+        body {
+            font-family: 'Roboto Mono', monospace;
+        }
+      </style>
+  </head>
+<body>
+
+<div align="center">
+    <div align="left" style="width: 60%;">
+        <h1>Under Construction</h1>
+
+        <h1>First model</h1>
+        <h3>Fully connected group</h3>
+        <p>I've heard of such concept that the more people in group,
+             the more difficult to reach concensus. Sounds obvious,
+              but how fast that difficulty grows with group size?</p>
+        <p>I've made a simple model: there is a group of people of size N. 
+            They are trying to reach the consensus. At the begining they has no ideas.
+            On each iteration each one do one of this actions: with probability A 
+            (acceptance rate) the participant accept the idea of random participant 
+            from previous iteration. With probability R (rejection rate) the participant 
+            decides to leave their own idea from previous step. And finnaly,
+             with probability 1-(A+R) they generate a new idea.
+             Process stops eather when every participant shares the same idea or
+             when the process reach maximum iteration.
+        </p>
+        <p>I've tried group sizes from 2 to 50 with different A and R.
+            Conclusions are not surprizing. The more stubborn are in group 
+            the slower convergence. The more "idea generators" in group the 
+            faster the process. Even with the most utopian parameters for the 
+            group of size 12 is nearly impossible to reach concensus.
+        </p>
+        <img src="pics/concensus.jpg">
+        <p>
+        <a href="https://gist.github.com/iggisv9t/50744dfeff2eb338b74f6566b852ee23">Model code</a>
+    </p>
+        <h1>Second model</h1>
+        <h3>3-nodes graphs</h3>>
+        <p>work in progress</p>
+    </div>
+</div>
+</body>
+
+</html>
