@@ -37,7 +37,7 @@
             faster the process. Even with the most utopian parameters for the 
             group of size 12 is nearly impossible to reach concensus.
         </p>
-        <img src="pics/concensus.jpg">
+        <img src="pics/concensus.jpg"  width="500px">
         <p>
         <a href="https://gist.github.com/iggisv9t/50744dfeff2eb338b74f6566b852ee23">Model code</a>
     </p>
@@ -47,11 +47,11 @@
             of fixed sizes but different connectivity. Edges are undirected. I.e 
             nodes interact in both directions.</p>
         <h3>3-nodes graphs</h3>
-        <img src="pics/graph3.jpg">
+        <img src="pics/graph3.jpg" width="500px">
         <p>It looks like "line" took less to reach consensus then "triangle"</p>
         <p><a href="https://t.me/sv9t_channel/1060">telegram post</a></p>
         <h3>4-nodes graphs</h3>
-        <img src="pics/graph4.jpg">
+        <img src="pics/graph4.jpg" width="500px">
         <p>It's more interesting with four vertices. They are ordered as time
             to reach consensus grows. Hipothesys are that convergence may
             depend on number of cicles and/or on mean path length. There 
@@ -59,8 +59,44 @@
         </p>
         <p><a href="https://t.me/sv9t_channel/1061">telegram post</a></p>
 
-        <p>work in progress</p>
         <h3>6-nodes graph</h3>
+        <img src="pics/graph6_1.jpg" width="500px">
+        <img src="pics/graph6_2.jpg" width="500px">
+        <p>First four networks are where consensus is reached in minimum number
+         of iterations. The other four are the slowest. 
+         All in order of time increasing. Now it's clearly seen, that the fastest
+         is the "star" topology. When everybody know only one center node, and 
+         this node can communicate to each other. Three following topologies are 
+         a bit more complicated then basic star. There is stll one node communicates
+         to each other (except second case, the star with one long ray).</p>
+         <p>The longes ones are interesting. First of them is the cycle of three 
+            nodes and long arm. It takes long to pass the idea through this arm,
+             and the cycle can pass new idea back. Second is the simple chain of nodes.
+             Third is two triangles connected with one edge. So it has two cycles
+             and long paths with no shortcuts. The last one is simple chain ring.
+             Long path, and while one side could reach consensus, there is possibe 
+             that new idea starts to spread on the other side.
+         </p>
+         <p>For me it's clearly seen that the longer mean path in graph 
+            the longer it takes to reach consensus. Connection with number
+             and length of cycles is not obvious.
+         </p>
+         <img src="pics/consensus6_dist.jpg" width="500px">
+         <p>Here is distribution till convergence for all 6-nodes graphs</p>
+         <img src="pics/consensus6_scat1.jpg" width="500px">
+         <img src="pics/consensus6_scat2.jpg" width="500px">
+         <p>The first picture is scatter plot showing how number of cycles (y)
+            affects convergence time (x). The second shows scatter for 
+            mean path length (y) and convergence time (x).
+         </p>
+         <img src="pics/consensus6_pred.jpg" width="500px">
+         <p>This image shows scatter plot of predicted convergence time (y)
+            against measured convergence time (x). Colored by mean path length.
+            Features used for predictions 
+            are the number of cicles (sum, and cycles of different lenght as 
+            separate features) and mean path length.
+         </p>
+
         <p><a href="https://t.me/sv9t_channel/1090">telegram post</a></p>
         
     </div>
